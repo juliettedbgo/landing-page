@@ -1,0 +1,24 @@
+.banner {
+
+  background-size:20 px;
+  background-position: right;
+  padding: 150px 0;
+  height: 50 px;
+  width: 30 px;
+}
+
+.banner h1 {
+  padding: 20px;
+  color:  #D5D8DC;
+  font-size: 48px;
+  background: rgba(0,0,0,0.3)
+
+}
+
+.banner p {
+  padding: 50px;
+  color:#D5D8DC;
+  font-size: 24px;
+  font-weight: bold;
+  background: rgba(0,0,0,0.3)
+}
